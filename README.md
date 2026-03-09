@@ -1,6 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-<div align="center">
+---
 
 # 👋 Hi, I'm Serhii Kaidalov
 
@@ -18,7 +18,6 @@
 Passionate about **cloud technologies**, **infrastructure automation**, and building **scalable, secure systems**.  
 Focus areas: **AWS** · **Kubernetes** · **Infrastructure as Code** · **zero-trust security**
 
-</div>
 
 ---
 
