@@ -24,20 +24,7 @@ Focus areas: **AWS** · **Kubernetes** · **Infrastructure as Code** · **zero-t
 
 ## 🔗 Connect with me
 
-<p align="center">
-  <a href="https://kaidalov.com" target="_blank" rel="nofollow noopener">
-    <img src="https://img.shields.io/badge/Website-kaidalov.com-2e2e33?style=for-the-badge" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/serhii-kaidalov" target="_blank" rel="nofollow noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/wiseelf" target="_blank" rel="nofollow noopener">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.credly.com/users/serhii-kaidalov" target="_blank" rel="nofollow noopener">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
-  </a>
-</p>
+**🌐 [kaidalov.com](https://kaidalov.com)** · **💼 [LinkedIn](https://linkedin.com/in/serhii-kaidalov)** · **💻 [GitHub](https://github.com/wiseelf)** · **🏅 [Credly](https://www.credly.com/users/serhii-kaidalov)**
 
 ---
 
@@ -50,5 +37,3 @@ On [kaidalov.com](https://kaidalov.com) I share practical insights from day-to-d
 - **CI/CD** – pipelines, delivery, Dev & Ops collaboration
 - **Automation** – workflows, efficiency in cloud environments
 - Real-world challenges, lessons learned, and solutions
-
-</div>
